@@ -7,7 +7,7 @@ public class methods_or_functions {
         else{
             z=(x+y)*5;
         }
-        return z;
+        return 
 
     }
     public static void main(String[] args) {
