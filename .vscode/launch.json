@@ -1,0 +1,538 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "java_programmess.Main",
+            "projectName": "javacodes_6e709ceb"
+        },
+        {
+            "type": "java",
+            "name": "Launch main",
+            "request": "launch",
+            "mainClass": "java_programmess.main",
+            "projectName": "javacodes_6e709ceb"
+        },
+        {
+            "type": "java",
+            "name": "Launch Dsa",
+            "request": "launch",
+            "mainClass": "java_programmess.Dsa",
+            "projectName": "javacodes_6e709ceb"
+        },
+        {
+            "type": "java",
+            "name": "Launch dsa",
+            "request": "launch",
+            "mainClass": "java_programmess.dsa",
+            "projectName": "javacodes_6e709ceb"
+        },
+        {
+            "type": "java",
+            "name": "Launch singly_linked1_list",
+            "request": "launch",
+            "mainClass": "java_programmess.DSA_java.singly_linked1_list",
+            "projectName": "javacodes_6e709ceb"
+        },
+        {
+            "type": "java",
+            "name": "Launch singly_linked_list",
+            "request": "launch",
+            "mainClass": "java_programmess.DSA_java.singly_linked_list",
+            "projectName": "javacodes_6e709ceb"
+        },
+        {
+            "type": "java",
+            "name": "Launch stack1",
+            "request": "launch",
+            "mainClass": "java_programmess.stack1",
+            "projectName": "javacodes_6e709ceb"
+        },
+        {
+            "name": "Java",
+            "type": "java",
+            "request": "launch",
+            "stopOnEntry": true,
+            "jdkPath": "${env:JAVA_HOME}/bin",
+            "cwd": "${fileDirname}",
+            "startupClass": "${fileBasenameNoExtension}",
+            "classpath": [
+                ".",
+                "${fileDirname}"
+            ]
+        },
+        {
+            "name": "Java Console App",
+            "type": "java",
+            "request": "launch",
+            "stopOnEntry": true,
+            "jdkPath": "${env:JAVA_HOME}/bin",
+            "cwd": "${fileDirname}",
+            "startupClass": "${fileBasenameNoExtension}",
+            "classpath": [
+                ".",
+                "${fileDirname}"
+            ],
+            "externalConsole": true
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch java_exercise_3",
+            "request": "launch",
+            "mainClass": "java_exercise_3",
+            "projectName": "javacodes_6e709ceb"
+        },
+        {
+            "type": "java",
+            "name": "Launch binary_search",
+            "request": "launch",
+            "mainClass": "java_programmess.DSA_java.binary_search",
+            "projectName": "javacodes_6e709ceb"
+        },
+        {
+            "type": "java",
+            "name": "Launch bubble_sort",
+            "request": "launch",
+            "mainClass": "java_programmess.DSA_java.bubble_sort",
+            "projectName": "javacodes_6e709ceb"
+        },
+        {
+            "type": "java",
+            "name": "Launch deletion_11",
+            "request": "launch",
+            "mainClass": "java_programmess.DSA_java.deletion_11",
+            "projectName": "javacodes_6e709ceb"
+        },
+        {
+            "type": "java",
+            "name": "Launch insertion_10",
+            "request": "launch",
+            "mainClass": "java_programmess.DSA_java.insertion_10",
+            "projectName": "javacodes_6e709ceb"
+        },
+        {
+            "type": "java",
+            "name": "Launch insertion_sort",
+            "request": "launch",
+            "mainClass": "java_programmess.DSA_java.insertion_sort",
+            "projectName": "javacodes_6e709ceb"
+        },
+        {
+            "type": "java",
+            "name": "Launch linear_search",
+            "request": "launch",
+            "mainClass": "java_programmess.DSA_java.linear_search",
+            "projectName": "javacodes_6e709ceb"
+        },
+        {
+            "type": "java",
+            "name": "Launch linked_main",
+            "request": "launch",
+            "mainClass": "java_programmess.DSA_java.linked_main",
+            "projectName": "javacodes_6e709ceb"
+        },
+        {
+            "type": "java",
+            "name": "Launch operators_",
+            "request": "launch",
+            "mainClass": "java_programmess.DSA_java.operators_",
+            "projectName": "javacodes_6e709ceb"
+        },
+        {
+            "type": "java",
+            "name": "Launch quick_sort",
+            "request": "launch",
+            "mainClass": "java_programmess.DSA_java.quick_sort",
+            "projectName": "javacodes_6e709ceb"
+        },
+        {
+            "type": "java",
+            "name": "Launch stack",
+            "request": "launch",
+            "mainClass": "java_programmess.DSA_java.stack",
+            "projectName": "javacodes_6e709ceb"
+        },
+        {
+            "type": "java",
+            "name": "Launch methods_or_functions",
+            "request": "launch",
+            "mainClass": "methods_or_functions",
+            "projectName": "javacodes_6e709ceb"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "practice_of_java.Main",
+            "projectName": "javacodes_6e709ceb"
+        },
+        {
+            "type": "java",
+            "name": "Launch Solution",
+            "request": "launch",
+            "mainClass": "practice_of_java.Solution",
+            "projectName": "javacodes_6e709ceb"
+        },
+        {
+            "type": "java",
+            "name": "Launch acess_modifiers",
+            "request": "launch",
+            "mainClass": "practice_of_java.acess_modifiers",
+            "projectName": "javacodes_6e709ceb"
+        },
+        {
+            "type": "java",
+            "name": "Launch break_and_continue",
+            "request": "launch",
+            "mainClass": "practice_of_java.break_and_continue",
+            "projectName": "javacodes_6e709ceb"
+        },
+        {
+            "type": "java",
+            "name": "Launch coding_bat",
+            "request": "launch",
+            "mainClass": "practice_of_java.coding_bat",
+            "projectName": "javacodes_6e709ceb"
+        },
+        {
+            "type": "java",
+            "name": "Launch codingbat_warmup2",
+            "request": "launch",
+            "mainClass": "practice_of_java.codingbat_warmup2",
+            "projectName": "javacodes_6e709ceb"
+        },
+        {
+            "type": "java",
+            "name": "Launch collegequestion",
+            "request": "launch",
+            "mainClass": "practice_of_java.collegequestion",
+            "projectName": "javacodes_6e709ceb"
+        },
+        {
+            "type": "java",
+            "name": "Launch constructors_in_inheritance",
+            "request": "launch",
+            "mainClass": "practice_of_java.constructors_in_inheritance",
+            "projectName": "javacodes_6e709ceb"
+        },
+        {
+            "type": "java",
+            "name": "Launch dynamic_dispatch",
+            "request": "launch",
+            "mainClass": "practice_of_java.dynamic_dispatch",
+            "projectName": "javacodes_6e709ceb"
+        },
+        {
+            "type": "java",
+            "name": "Launch forloop",
+            "request": "launch",
+            "mainClass": "practice_of_java.forloop",
+            "projectName": "javacodes_6e709ceb"
+        },
+        {
+            "type": "java",
+            "name": "Launch guess_the_number",
+            "request": "launch",
+            "mainClass": "practice_of_java.guess_the_number",
+            "projectName": "javacodes_6e709ceb"
+        },
+        {
+            "type": "java",
+            "name": "Launch inheritance",
+            "request": "launch",
+            "mainClass": "practice_of_java.inheritance",
+            "projectName": "javacodes_6e709ceb"
+        },
+        {
+            "type": "java",
+            "name": "Launch java0",
+            "request": "launch",
+            "mainClass": "practice_of_java.java0",
+            "projectName": "javacodes_6e709ceb"
+        },
+        {
+            "type": "java",
+            "name": "Launch java1",
+            "request": "launch",
+            "mainClass": "practice_of_java.java1",
+            "projectName": "javacodes_6e709ceb"
+        },
+        {
+            "type": "java",
+            "name": "Launch java10",
+            "request": "launch",
+            "mainClass": "practice_of_java.java10",
+            "projectName": "javacodes_6e709ceb"
+        },
+        {
+            "type": "java",
+            "name": "Launch java12",
+            "request": "launch",
+            "mainClass": "practice_of_java.java12",
+            "projectName": "javacodes_6e709ceb"
+        },
+        {
+            "type": "java",
+            "name": "Launch java13",
+            "request": "launch",
+            "mainClass": "practice_of_java.java13",
+            "projectName": "javacodes_6e709ceb"
+        },
+        {
+            "type": "java",
+            "name": "Launch java14",
+            "request": "launch",
+            "mainClass": "practice_of_java.java14",
+            "projectName": "javacodes_6e709ceb"
+        },
+        {
+            "type": "java",
+            "name": "Launch java15",
+            "request": "launch",
+            "mainClass": "practice_of_java.java15",
+            "projectName": "javacodes_6e709ceb"
+        },
+        {
+            "type": "java",
+            "name": "Launch java16loops",
+            "request": "launch",
+            "mainClass": "practice_of_java.java16loops",
+            "projectName": "javacodes_6e709ceb"
+        },
+        {
+            "type": "java",
+            "name": "Launch java17method_overloading",
+            "request": "launch",
+            "mainClass": "practice_of_java.java17method_overloading",
+            "projectName": "javacodes_6e709ceb"
+        },
+        {
+            "type": "java",
+            "name": "Launch java2",
+            "request": "launch",
+            "mainClass": "practice_of_java.java2",
+            "projectName": "javacodes_6e709ceb"
+        },
+        {
+            "type": "java",
+            "name": "Launch java3",
+            "request": "launch",
+            "mainClass": "practice_of_java.java3",
+            "projectName": "javacodes_6e709ceb"
+        },
+        {
+            "type": "java",
+            "name": "Launch java4",
+            "request": "launch",
+            "mainClass": "practice_of_java.java4",
+            "projectName": "javacodes_6e709ceb"
+        },
+        {
+            "type": "java",
+            "name": "Launch java5",
+            "request": "launch",
+            "mainClass": "practice_of_java.java5",
+            "projectName": "javacodes_6e709ceb"
+        },
+        {
+            "type": "java",
+            "name": "Launch java6",
+            "request": "launch",
+            "mainClass": "practice_of_java.java6",
+            "projectName": "javacodes_6e709ceb"
+        },
+        {
+            "type": "java",
+            "name": "Launch java7",
+            "request": "launch",
+            "mainClass": "practice_of_java.java7",
+            "projectName": "javacodes_6e709ceb"
+        },
+        {
+            "type": "java",
+            "name": "Launch java8",
+            "request": "launch",
+            "mainClass": "practice_of_java.java8",
+            "projectName": "javacodes_6e709ceb"
+        },
+        {
+            "type": "java",
+            "name": "Launch java9",
+            "request": "launch",
+            "mainClass": "practice_of_java.java9",
+            "projectName": "javacodes_6e709ceb"
+        },
+        {
+            "type": "java",
+            "name": "Launch java_2",
+            "request": "launch",
+            "mainClass": "practice_of_java.java_2",
+            "projectName": "javacodes_6e709ceb"
+        },
+        {
+            "type": "java",
+            "name": "Launch java_2d_arrays",
+            "request": "launch",
+            "mainClass": "practice_of_java.java_2d_arrays",
+            "projectName": "javacodes_6e709ceb"
+        },
+        {
+            "type": "java",
+            "name": "Launch java_3",
+            "request": "launch",
+            "mainClass": "practice_of_java.java_3",
+            "projectName": "javacodes_6e709ceb"
+        },
+        {
+            "type": "java",
+            "name": "Launch java_33_varargs",
+            "request": "launch",
+            "mainClass": "practice_of_java.java_33_varargs",
+            "projectName": "javacodes_6e709ceb"
+        },
+        {
+            "type": "java",
+            "name": "Launch java_34_recursion",
+            "request": "launch",
+            "mainClass": "practice_of_java.java_34_recursion",
+            "projectName": "javacodes_6e709ceb"
+        },
+        {
+            "type": "java",
+            "name": "Launch java_arrays",
+            "request": "launch",
+            "mainClass": "practice_of_java.java_arrays",
+            "projectName": "javacodes_6e709ceb"
+        },
+        {
+            "type": "java",
+            "name": "Launch java_exercise1_prcntage",
+            "request": "launch",
+            "mainClass": "practice_of_java.java_exercise1_prcntage",
+            "projectName": "javacodes_6e709ceb"
+        },
+        {
+            "type": "java",
+            "name": "Launch java_exercise2",
+            "request": "launch",
+            "mainClass": "practice_of_java.java_exercise2",
+            "projectName": "javacodes_6e709ceb"
+        },
+        {
+            "type": "java",
+            "name": "Launch java_oop_programming",
+            "request": "launch",
+            "mainClass": "practice_of_java.java_oop_programming",
+            "projectName": "javacodes_6e709ceb"
+        },
+        {
+            "type": "java",
+            "name": "Launch java_practice_set",
+            "request": "launch",
+            "mainClass": "practice_of_java.java_practice_set",
+            "projectName": "javacodes_6e709ceb"
+        },
+        {
+            "type": "java",
+            "name": "Launch java_stone_paper",
+            "request": "launch",
+            "mainClass": "practice_of_java.java_stone_paper",
+            "projectName": "javacodes_6e709ceb"
+        },
+        {
+            "type": "java",
+            "name": "Launch javapractice3",
+            "request": "launch",
+            "mainClass": "practice_of_java.javapractice3",
+            "projectName": "javacodes_6e709ceb"
+        },
+        {
+            "type": "java",
+            "name": "Launch library_ex_4",
+            "request": "launch",
+            "mainClass": "practice_of_java.library_ex_4",
+            "projectName": "javacodes_6e709ceb"
+        },
+        {
+            "type": "java",
+            "name": "Launch patttern",
+            "request": "launch",
+            "mainClass": "practice_of_java.patttern",
+            "projectName": "javacodes_6e709ceb"
+        },
+        {
+            "type": "java",
+            "name": "Launch practice1",
+            "request": "launch",
+            "mainClass": "practice_of_java.practice1",
+            "projectName": "javacodes_6e709ceb"
+        },
+        {
+            "type": "java",
+            "name": "Launch practice2",
+            "request": "launch",
+            "mainClass": "practice_of_java.practice2",
+            "projectName": "javacodes_6e709ceb"
+        },
+        {
+            "type": "java",
+            "name": "Launch practice3",
+            "request": "launch",
+            "mainClass": "practice_of_java.practice3",
+            "projectName": "javacodes_6e709ceb"
+        },
+        {
+            "type": "java",
+            "name": "Launch practice_4",
+            "request": "launch",
+            "mainClass": "practice_of_java.practice_4",
+            "projectName": "javacodes_6e709ceb"
+        },
+        {
+            "type": "java",
+            "name": "Launch practice_5",
+            "request": "launch",
+            "mainClass": "practice_of_java.practice_5",
+            "projectName": "javacodes_6e709ceb"
+        },
+        {
+            "type": "java",
+            "name": "Launch practice_oops",
+            "request": "launch",
+            "mainClass": "practice_of_java.practice_oops",
+            "projectName": "javacodes_6e709ceb"
+        },
+        {
+            "type": "java",
+            "name": "Launch practice_set_oop",
+            "request": "launch",
+            "mainClass": "practice_of_java.practice_set_oop",
+            "projectName": "javacodes_6e709ceb"
+        },
+        {
+            "type": "java",
+            "name": "Launch quiz",
+            "request": "launch",
+            "mainClass": "practice_of_java.quiz",
+            "projectName": "javacodes_6e709ceb"
+        },
+        {
+            "type": "java",
+            "name": "Launch insertion_sort_practice",
+            "request": "launch",
+            "mainClass": "practice_set.insertion_sort_practice",
+            "projectName": "javacodes_6e709ceb"
+        }
+    ]
+}
