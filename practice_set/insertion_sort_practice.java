@@ -8,7 +8,6 @@ public class insertion_sort_practice {
         j=i-1;
         while(j>-1 && item<arr[j]){
           arr[j+1]=arr[j];
-          j=j-1;
           arr[j+1]=item;
       }
     }
