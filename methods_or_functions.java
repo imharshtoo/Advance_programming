@@ -15,7 +15,6 @@ public class methods_or_functions {
         int b=5;
         int c;
         c=sum1( a, b);
-        System.out.println(c);
         
     }
     
